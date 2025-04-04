@@ -8,3 +8,4 @@ A detailed explanation about how the code can be executed, the inputs required a
 
 
 Aniruddh Ramrakhyani
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=anirudd/Lagrange_Multiplier_Method&project=.prj file)
